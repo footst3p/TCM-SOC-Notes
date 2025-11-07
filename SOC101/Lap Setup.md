@@ -1,4 +1,4 @@
-###**VirtualBox Installation:**
+### **VirtualBox Installation:**
 
 - https://www.virtualbox.org/wiki/Downloads
 - Install VirtualBox on Mac: https://cs.hofstra.edu/docs/pages/guides/vbox_mac.html
