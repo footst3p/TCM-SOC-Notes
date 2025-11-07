@@ -147,3 +147,54 @@ This is the process of detecting and responding to and resolving security incide
    - IDS: Designed to detect security incidents and generate alers based on their predefined criteria like known attack           signatures or anomalous behavious or different policy violations that we set up.
    - IPS: Used to prevent attacks and actually builds upon the capabilities of an IDS by actively blocking or preventing          detected threats in real-time.
      
+6. ### Endpoint Detection and Response (EDR):
+   EDR protects individual endpoint devices, like desktop, server, and mobile devices.
+   - Examples: Crowdstrike, SentinelOne, Carbon Black.
+
+7. ### Firewall:
+   A network security tool designed to monitors and controlsincoming and outgoing network traffic based on prededfined          secueirty rules. Examples, CloudFlare, PFSense, etc.
+
+8. ### Threat Intelligence Platforms (TIPs):
+   - Data aggregation and enrichment.
+   - Indication of compromise (IOCs).
+   - Normalisation and standardisation.
+   - Analysis and prioritisation
+   - Examples: OpenCTI, MAltego, etc.
+     
+9. ### Forensic Analysis Tools:
+   Tools designed to collect, analyse, and interpret digital evidence from computer systems or networks, or storage devices     for the purpose of forensic investigations. Examples: Autopsy, Volatility, etc.
+
+10. ### Malware Analysis Tools:
+    Tools designed to analyse and disect malwares. Examples: AnyRun, Chidra, etc.
+
+# Common Threats and Attacks
+1. Social Engineering: A form of attack that exploits the human side of cybersecurity rather than any kind of technical vulnerability.
+### Forms:
+- Phishing
+  - Spear phishing: targeted phishing.
+  - Whaling: target high profile in an organisation
+  - Vishing: voice phishing
+  - Smishing: SMS phishing
+  - Quishing: QR code phishing
+ 
+2. Malware: Malicious software designed to expliot an organisation or individual.
+   - Worm: Self-replicating malware
+   - Spyware/Adware: Malwares designed to monitor users activity or display unwanted advertisements.
+   - Trojan: Malware designed to disguise as a legitimate program.
+   - Ransomware: Holds systems or files excrypted until ransom is paid.
+   - Botnet: Network of compromises computers controlled by an attacker.
+
+3. Identity and Account Compromise (identity theft):
+   - Unauthorized access to someone's account
+
+4. Insider Threats: Threats from someone within the organisation.
+
+5. Advanced Persistent Threats (APTs): A highly skilled, well-funded adversaries.
+
+6. Denial-of-Service Attacks: Disrupt the availability of systems.
+
+7. Data Breaches: Unauthorised data exposure, theft, or compromise.
+
+8. Zero-Day: Software vulnerability unknown to the vendor.
+
+9. Supply Chain Attacks: Targeted software supply chain to compromised the security downstream to organisations or users.
