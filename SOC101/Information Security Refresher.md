@@ -167,9 +167,10 @@ This is the process of detecting and responding to and resolving security incide
 10. ### Malware Analysis Tools:
     Tools designed to analyse and disect malwares. Examples: AnyRun, Chidra, etc.
 
-# Common Threats and Attacks
+### Common Threats and Attacks
 1. Social Engineering: A form of attack that exploits the human side of cybersecurity rather than any kind of technical vulnerability.
-### Forms:
+
+Forms:
 - Phishing
   - Spear phishing: targeted phishing.
   - Whaling: target high profile in an organisation
