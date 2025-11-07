@@ -91,4 +91,33 @@ This is the process of detecting and responding to and resolving security incide
 3. False Negative: Security tool faiked to detect real security threat.
 4. True Positive: Correct identifiaction of normal activity.
 
-### **SOC MetricS**
+### **SOC Metrics**
+1. Meam Time to Detect (MTTD):
+   - Lower MTTD = faster detection
+  
+2. Mean Time to Resolution (MTTR):
+   - Lower MTTR = more efficient IR
+
+3. Mean Time to Attend & Analyse (MTTA&A):
+   - Lower MTTA&A - reduced response latency
+  
+4. Incident Detection Rate:
+  - Higher rate = better visibilty and monitoring
+
+5. False Positive Rates (FPR):
+   - Lower rate = more accurate detection
+  
+6. False Negative Rates (FNR):
+   - Lower rate = more accurate detection
+  
+7. Key Performance Indicator (KPIS):
+   - Measurable values to track performance
+
+8. Key Risk Indicators (KRIS):
+   - Measurable values to assess risk.
+
+9. Service Level Agreement (SLAs):
+    - Agreement between the SOC and the SOC management.
+  
+### SOC Tools
+
