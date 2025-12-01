@@ -1,0 +1,16 @@
+### Some Useful Resources
+- https://phishtank.org/
+- https://openphish.com/index.html
+- https://github.com/rf-peixoto/phishing_pot/
+- https://bazaar.abuse.ch/
+- https://www.malware-traffic-analysis.net/
+- https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
+- https://thedfirreport.com/
+- https://blueteamlabs.online/home/investigation/piggy-aij2bd8h2
+- https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507
+- https://tryhackme.com/r/room/posheclipse
+- https://tryhackme.com/r/room/paymentcollectors
+- https://tryhackme.com/r/room/summit
+- https://tryhackme.com/r/room/mondaymonitor
+- https://tryhackme.com/r/room/warzoneone
+- https://tryhackme.com/r/room/snappedphishinglin
